@@ -1,0 +1,11 @@
+Name,Age,Marks,Gender,Passed,Grades
+Alice,23.0,85.0,F,Yes,A+
+Bob,24.0,90.0,M,Yes,A+
+Charlie,22.0,95.0,M,Yes,O
+David,23.375,88.0,M,Yes,A+
+Eva,25.0,89.5,F,No,A+
+Frank,24.0,76.0,M,No,A
+Grace,23.375,89.0,F,Yes,A+
+Helen,23.0,89.5,F,No,A+
+Ian,22.0,91.0,M,Yes,O
+Jack,24.0,93.0,M,Yes,O

@@ -1,0 +1,11 @@
+,Name,Age,Marks,Gender,Passed
+0,Alice,23.0,85.0,F,Yes
+1,Bob,24.0,90.0,M,Yes
+2,Charlie,22.0,95.0,M,Yes
+3,David,,88.0,M,Yes
+4,Eva,25.0,,F,No
+5,Frank,24.0,76.0,M,No
+6,Grace,,89.0,F,Yes
+7,Helen,23.0,,F,No
+8,Ian,22.0,91.0,M,Yes
+9,Jack,24.0,93.0,M,Yes
